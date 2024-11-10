@@ -1,4 +1,4 @@
-import Footer from "@/components/footer";
+
 import Home from "@/components/home";
 import About from "@/app/about/page"
 import Skills from "@/app/skills/page";
@@ -14,7 +14,6 @@ export default function Homepage() {
       <Projects/>
       <Skills/>
       <Contact/>
-      <Footer/>
     </>
   );
 }

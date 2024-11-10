@@ -10,7 +10,7 @@ function Navbar() {
         alt='logo'
         height={50}
         width={50}/>
-        <ul className='gap-10 lg:gap-16 hidden md:flex'>
+        <ul className='gap-10 p-4 lg:gap-16 hidden md:flex'>
           <Link href={'/'}>Home</Link>
           <Link href={'/about'}>About</Link>
           <Link href={'/projects'}>My Projects</Link>
