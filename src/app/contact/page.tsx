@@ -8,7 +8,7 @@ import { FaLinkedin } from "react-icons/fa6";
 function page() {
   return (
     <div className="bg-orange-300 h-screen w-screen flex items-center justify-center pt-32">
-      <div className="bg-orange-400 h-auto w-full sm:w-[70%] md:w-[60%] lg:w=[50%] relative rounded-xl border-orange-500 border-4">
+      <div className="bg-orange-400 h-auto w-full sm:w-[70%] md:w-[60%] lg:w=[40%] relative rounded-xl border-orange-500 border-4">
         <div className="space-y-8">
           <h2 className="tex-3xl sm:text-5xl text-center">GET IN TOUCH</h2>
           <form>
