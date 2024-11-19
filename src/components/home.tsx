@@ -1,6 +1,6 @@
-import React from 'react'
-import Image from 'next/image'
-import Link from 'next/link'
+import React from 'react';
+import Image from 'next/image';
+import Link from 'next/link';
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
           >Learn More</Link>
         </div>
       <div className='mb-6 flex justify-center'>
-        <img src='/images/images (3).jpeg'
+        <Image src={'/images/images (3).jpeg'}
         alt="Profile Picture"
         width={300}
         height={300}
