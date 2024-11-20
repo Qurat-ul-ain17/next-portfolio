@@ -39,7 +39,7 @@ function Projects() {
               width={250}
               className="rounded-lg"
             />
-            <a href="https://github.com/Qurat-ul-ain17/portfolio.git" target="_blank" rel="noopener noreference">
+            <a href="https://github.com/Qurat-ul-ain17/next-portfolio.git" target="_blank" rel="noopener noreference">
             <p className="hover:text-orange-50 font-semibold text-lg">NEXT.JS</p>
             </a>
           </div>
